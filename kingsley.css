@@ -1,0 +1,20 @@
+
+.backdrop.jpg {
+    background-color: #11111133;
+    height: 1080px;
+    width: 1919px;
+  }
+
+  .image {
+    height: 846px;
+    width: 677px;
+  }
+  
+  .image .logo.jpg {
+    height: 846px;
+    left: 0;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    width: 580px;
+  }

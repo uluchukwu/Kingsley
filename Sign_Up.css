@@ -1,0 +1,153 @@
+
+.Backdrop.jpg {
+    background-color: #11111133;
+    height: 1080px;
+    width: 1919px;
+  }
+
+  .image {
+    height: 846px;
+    width: 677px;
+  }
+  
+  .image .logo.jpg {
+    height: 846px;
+    left: 0;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    width: 580px;
+  }
+
+  .sign-up {
+    height: 846px;
+    width: 580px;
+  }
+  
+  .sign-up .frame-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 48px;
+    left: 89px;
+    position: relative;
+    top: 56px;
+  }
+  
+  .sign-up .frame-4 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .sign-up .logo {
+    height: 48px;
+    object-fit: cover;
+    position: relative;
+    width: 48px;
+  }
+  
+  .sign-up .frame-5 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 2px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .sign-up .p {
+    color: #333333;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .sign-up .text-wrapper-2 {
+    color: #666666;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .sign-up .frame-6 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+  }
+  
+  .sign-up .social-media-signup-login {
+    position: relative !important;
+    width: 402px !important;
+  }
+  
+  .sign-up .social-media-signup-instance {
+    left: 56px !important;
+  }
+  
+  .sign-up .social-media-signup-login-instance {
+    font-size: 22px !important;
+    margin-top: unset !important;
+  }
+  
+  .sign-up .design-component-instance-node {
+    left: 72px !important;
+    top: 20px !important;
+  }
+  
+  .sign-up .social-media-signup-2 {
+    font-size: 22px !important;
+  }
+  
+  .sign-up .social-media-signup-3 {
+    left: 66px !important;
+  }
+  
+  .sign-up .social-media-signup-4 {
+    left: 62px !important;
+  }
+  
+  .sign-up .button-instance {
+    background-color: unset !important;
+    border: 1px solid !important;
+    border-color: #111111 !important;
+    border-radius: 40px !important;
+    position: relative !important;
+    width: 402px !important;
+  }
+  
+  .sign-up .button-2 {
+    gap: 18px !important;
+    left: 72px !important;
+  }
+  
+  .sign-up .button-3 {
+    color: #333333 !important;
+    font-family: "Avenir-Roman", Helvetica !important;
+    font-size: 24px !important;
+    font-weight: 400 !important;
+  }
+  
+  .sign-up .button-4 {
+    gap: 18px !important;
+    left: 66px !important;
+  }
+  
